@@ -1,1 +1,1 @@
-// ==UserScri
+// ==UserScript
