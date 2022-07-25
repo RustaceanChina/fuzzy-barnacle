@@ -1,4 +1,4 @@
 Greasemonkey-IndieTravelPodcast
 ===============================
 
-A Greasemonkey script to remin
+A Greasemonkey script to remind
